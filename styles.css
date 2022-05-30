@@ -1,0 +1,25 @@
+.rectangle {
+  background-color: aqua;
+  width: 100px;
+  height: 100px;
+}
+
+.text {
+  font-size: 18px;
+  line-height: 24px;
+}
+
+.text::first-letter {
+  color: red;
+}
+
+.new {
+  color: grey;
+}
+div.rectangle {
+  background-color: blueviolet;
+}
+.text::first-letter {
+  font-size: 24px;
+  color: green;
+}
